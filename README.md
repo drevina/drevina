@@ -1,8 +1,8 @@
 ### Hello everyone 🙇
 
-🎓 Now I'm studying Ruby and RoR on <a href="https://thinknetica.com/"><b>Thinknetica</b></a> courses.<br>
-Also want to learn Elixir.<br>
-💻 Also I have some SQL and HTML/CSS skills.<br>
+🎓 Now I'm studying Ruby and RoR on <a href="https://thinknetica.com/" target="_blank"><b>Thinknetica</b></a> courses.<br>
+After it I want to learn Elixir.<br>
+💻 Also have some SQL and HTML/CSS skills.<br>
 <br>
 Ready for new knowledges! 💪<br>
 
