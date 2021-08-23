@@ -1,9 +1,9 @@
 ### Hi Everyone 👋 
 
 <br />
-<img align="right" alt="QA" width="380" height="260" src="https://akacan.files.wordpress.com/2010/01/qa.jpg" />
-Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
+Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
+<img align="right" alt="QA" width="380" height="260" src="https://akacan.files.wordpress.com/2010/01/qa.jpg" />
 
 **Talking about Personal Stuffs:**
 
