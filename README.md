@@ -4,7 +4,7 @@
 
 Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
-<img align="right" alt="QA" src="https://user-images.githubusercontent.com/79960498/130511126-cde1c79c-9b56-4bc8-a1e7-ee79938e7d3f.png" />
+<img align="right" alt="QA" width="150" height="150" src="https://user-images.githubusercontent.com/79960498/130511126-cde1c79c-9b56-4bc8-a1e7-ee79938e7d3f.png" />
 
 
 **Talking about Personal Stuffs:**
