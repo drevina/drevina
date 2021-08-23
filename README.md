@@ -4,12 +4,12 @@
 
 Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
-<img align="right" alt="QA" width="150" height="150" src="https://user-images.githubusercontent.com/79960498/130511126-cde1c79c-9b56-4bc8-a1e7-ee79938e7d3f.png" />
+<img align="right" alt="QA" width="150" height="150" src="https://e7.pngegg.com/pngimages/288/760/png-clipart-quality-assurance-qa-apprenticeships-slough-training-course-business-blue-company.png" />
 
 
 **Talking about Personal Stuffs:**
 
-- 🎓 Learned Ruby and RoR on Thinknetica courses
+- 🎓 Learned Ruby and RoR on [Thinknetica](https://thinknetica.com/) courses
 - ✨ I’m currently learning Python and testing
 - 💬 Ask me about anything ✌
 - 🌱 I like to swim, walking in parks/foresests, stretching and delicious food!
