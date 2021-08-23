@@ -4,7 +4,7 @@
 
 Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
-<img align="right" alt="QA" width="150" height="150" src="https://i2.wp.com/tmcaznews.com/wp-content/uploads/2011/09/quality-first-4c-gold-screened.jpg" />
+<img align="right" alt="QA" width="250" height="150" src="https://www.vippng.com/png/detail/387-3872632_ckt-quality-assurance-logo-design.png" />
 
 
 **Talking about Personal Stuffs:**
