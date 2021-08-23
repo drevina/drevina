@@ -4,7 +4,7 @@
 
 Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
-<img align="right" alt="QA" width="150" height="150" src="https://e7.pngegg.com/pngimages/288/760/png-clipart-quality-assurance-qa-apprenticeships-slough-training-course-business-blue-company.png" />
+<img align="right" alt="QA" width="150" height="150" src="https://i2.wp.com/tmcaznews.com/wp-content/uploads/2011/09/quality-first-4c-gold-screened.jpg" />
 
 
 **Talking about Personal Stuffs:**
@@ -18,8 +18,8 @@ Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
 
 **Languages and Tools:**
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
 
 
