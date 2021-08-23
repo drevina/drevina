@@ -1,11 +1,25 @@
-### Hello everyone 🙇
+### Hi Everyone 👋 
 
-🎓 Now I'm studying Ruby and RoR on <a href="https://thinknetica.com/" target="_blank"><b>Thinknetica</b></a> courses.<br>
-After it I want to learn Elixir.<br>
-💻 Also have some SQL and HTML/CSS skills.<br>
-<br>
-Ready for new knowledges! 💪<br>
+<br />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
+Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
+
+<img align="right" alt="QA" src="https://user-images.githubusercontent.com/79960498/130511126-cde1c79c-9b56-4bc8-a1e7-ee79938e7d3f.png" />
+
+
+**Talking about Personal Stuffs:**
+
+- 🎓 Learned Ruby and RoR on Thinknetica courses
+- ✨ I’m currently learning Python and testing
+- 💬 Ask me about anything ✌
+- 🌱 I like to swim, walking in parks/foresests, stretching and delicious food!
+- 👯 Part of QA community on [Community-Z](https://community-z.com/)
+
+
+**Languages and Tools:**
+
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+
 
