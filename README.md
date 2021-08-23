@@ -1,10 +1,9 @@
 ### Hi Everyone 👋 
 
 <br />
+<img align="right" alt="QA" width="370" height="260" src="https://www.vippng.com/png/detail/387-3872632_ckt-quality-assurance-logo-design.png" />
 
 Nice to meet you, I'm Sasha 🙌, a QA trainee ❤✌
-
-<img align="right" alt="QA" width="370" height="260" src="https://www.vippng.com/png/detail/387-3872632_ckt-quality-assurance-logo-design.png" />
 
 
 **Talking about Personal Stuffs:**
