@@ -2,16 +2,15 @@
 
 <br />
 
-Nice to meet you, I'm Sasha 🙌, a Junior QA ❤✌
-<img align="right" alt="QA" width="380" height="260" src="https://akacan.files.wordpress.com/2010/01/qa.jpg" />
+Nice to meet you, I'm Sasha 🙌, a System Analyst ❤✌
 
 **Talking about Personal Stuffs:**
 
 - 🎓 Learned Ruby and RoR on [Thinknetica](https://thinknetica.com/) courses
-- ✨ I’m currently learning Python and testing
+- ✨ I’m currently learning System Analysis on [Bell Integrator](https://bellintegrator.ru/) courses
 - 💬 Ask me about anything ✌
 - 🌱 I like to swim, walking in parks/foresests, stretching and delicious food!
-- 👯 Part of QA community on [Community-Z](https://community-z.com/)
+- 👯 Part of [Community-Z](https://community-z.com/)
 
 
 **Languages and Tools:**
