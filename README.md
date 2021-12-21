@@ -2,12 +2,12 @@
 
 <br />
 
-Nice to meet you, I'm Sasha 🙌, a System Analyst ❤✌
+Nice to meet you, I'm Sasha 🙌, a Junior QA (trainee) ❤✌
 
 **Talking about Personal Stuffs:**
 
 - 🎓 Learned Ruby and RoR on [Thinknetica](https://thinknetica.com/) courses
-- ✨ I’m currently learning System Analysis on [Bell Integrator](https://bellintegrator.ru/) courses
+- ✨ I’m currently learning Software Testing on [EPAM](https://www.epam-group.ru/) courses
 - 💬 Ask me about anything ✌
 - 🌱 I like to swim, walking in parks/foresests, stretching and delicious food!
 - 👯 Part of [Community-Z](https://community-z.com/)
