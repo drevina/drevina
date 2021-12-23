@@ -2,7 +2,7 @@
 
 <br />
 
-Nice to meet you, I'm Sasha 🙌, a Junior QA (trainee) ❤✌
+Nice to meet you, I'm Sasha 🙌❤✌
 
 **Talking about Personal Stuffs:**
 
