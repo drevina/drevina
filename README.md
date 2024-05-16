@@ -9,7 +9,6 @@ Nice to meet you, I'm Sasha 🙌❤✌
 - 🎓 Learned Ruby and RoR on [Thinknetica](https://thinknetica.com/) courses
 - 💬 Ask me about anything ✌
 - 🌱 I like to swim, walking in parks/foresests, stretching and delicious food!
-- 👯 Part of [Community-Z](https://community-z.com/)
 
 
 **Languages and Tools:**
